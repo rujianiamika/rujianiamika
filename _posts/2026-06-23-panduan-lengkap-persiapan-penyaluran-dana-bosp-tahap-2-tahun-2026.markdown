@@ -2,7 +2,7 @@
 layout: post
 title: "Panduan Lengkap Persiapan Penyaluran Dana BOSP Tahap 2 Tahun 2026"
 date: 2026-06-23 07:00:00 +0700
-categories: [Edukasi, Administrasi]
+categories: Edukasi, Administrasi
 tags: [BOSP, ARKAS, Sekolah, Jurnal]
 author: "Pengelola BOSP"
 ---
