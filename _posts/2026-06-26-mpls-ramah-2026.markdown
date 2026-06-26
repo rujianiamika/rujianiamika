@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Menyambut MPLS Ramah 2026: Transformasi Sekolah Menjadi Rumah Kedua yang Penuh Sukacita"
-date: 2026-06-26 11:00:00 +0700
+date: 2026-06-26 13:00:00 +0700
 categories: Pendidikan, Orang Tua, Guru
 tags: mpls2026, pendidikan, guru, sekolah dasar
 author: "Operator Sekolah"
